@@ -1,0 +1,28 @@
+Libero documentation in HTML format. Libero
+is a
+Programmer's Tool and Code Generator. You
+define
+the high-level logic of a problem as a
+diagram:
+Libero generates the code to implement this
+logic.
+Your applications are easier to write, more
+robust,
+easier to understand. Libero uses a
+finite-state
+machine as the underlying model. Libero
+generates
+code in these languages: C, C++, Java, Perl,
+Awk,
+80x86 assembler, COBOL, MS Visual Basic, MS
+Test
+Basic, UNIX C Shell, UNIX Korn Shell, UNIX
+Bourne
+Shell, GNU Bash Shell, Rexx, PL/SQL, and
+PHP. You
+can extend Libero support to other languages
+via
+external schema files. Libero runs on: UNIX
+(tested on Linux, HP/UX, SunOS, Irix, AIX,
+Solaris),
+MS-DOS, MS-Windows, Digital Open-VMS, OS/2.
